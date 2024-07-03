@@ -39,7 +39,7 @@ const projectList = [
   {
     title: "Bubble Sort Algo Visualizer",
     description:
-      "Developed a Bubble Sort Algorithm Visualizer to illustrate the sorting process, enhancing understanding of algorithm mechanics utlising HTML, CSS, and JavaScript and implemented real-time visualization of the Bubble Sort algorithm, demonstrating each step of the sorting process dynamically.",
+      "Developed a Bubble Sort Algorithm Visualizer to  implement real-time visualization of the Bubble Sort algorithm, demonstrating each step of the sorting process dynamically.",
     url: "https://immortal-brick.github.io/bubble_sort_blitz/",
   },
   {
