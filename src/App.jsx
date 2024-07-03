@@ -26,13 +26,13 @@ import "./styles.css";
 const siteProps = {
   name: "Alexandrie Grenier",
   title: "Frontend Web Developer",
-  email: "alex@example.com",
+  email: "amritaprasad1705@gmail.com",
   gitHub: "immortal-brick",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  instagram: "immortal_brick_",
+  linkedIn: "Amtita Prasad",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
