@@ -21,7 +21,7 @@ import PropTypes from "prop-types";
  * freely use on your site.
  */
 
-import image from "../images/woman-with-tablet.jpg";
+import image from "../images/bg1.jpeg";
 
 const imageAltText = "my photo with calming warm background";
 
