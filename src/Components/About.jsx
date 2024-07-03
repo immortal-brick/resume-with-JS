@@ -24,19 +24,22 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Manipal University Jaipur. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a UI/UX student studying at Manipal University Jaipur. Designing the Web, One Pixel at a Time I develop user-friendly and visually appealing websites. Through my projects, I aim to bridge the gap between imagination and reality, crafting digital solutions that leaves a lasting impression. Let's build the web together";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
+  "HTML",
+  "CSS",
+  "JavaScript",
+  "Bootstrap5",
   "Mobile user interfaces",
   "Graphic design",
+  "C++",
+  "Python",
+  "Git and Github",
 ];
 
 /**
@@ -45,7 +48,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Finalist at Techgig Code Gladiators 2023,ranked 3498 among 3.40 lakh registrations";
 
 const About = () => {
   return (
