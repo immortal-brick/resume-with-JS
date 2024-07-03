@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Portfolio App  🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Developed a personal portfolio website to showcase my projects and skills using HTML, CSS, JavaScript, and Firebase.",
+    url: "https://immortal-brick.github.io/MyPortfolio_/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Bubble Sort Algo Visualizer",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Developed a Bubble Sort Algorithm Visualizer to illustrate the sorting process, enhancing understanding of algorithm mechanics utlising HTML, CSS, and JavaScript and implemented real-time visualization of the Bubble Sort algorithm, demonstrating each step of the sorting process dynamically.",
+    url: "https://immortal-brick.github.io/bubble_sort_blitz/",
   },
   {
-    title: "My Resume Site",
+    title: "Qgen",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Developed a Quote Generator that displays random quotes using HTML, CSS, and JavaScript.",
+    url: "https://immortal-brick.github.io/Qgen/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Tic Tac Toe",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Developed a Tic Tac Toe game using HTML, CSS, and JavaScript, providing a classic gaming experience with a modern twist.",
+    url: "https://immortal-brick.github.io/tictactoe/",
   },
 ];
 
